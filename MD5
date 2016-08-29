@@ -1,0 +1,16 @@
+b16d38c19504e1704dbc641709604a70 *DESCRIPTION
+e885ec64a2fd1ab8569b19876f81f217 *NAMESPACE
+7faaae874b0b47bc68209872c59f77e1 *R/data_collection.R
+caa31984ff1b45221edbfc29bc6739a2 *R/main.R
+a86e68e04ed7b8e7f998f12d7a741fab *R/sysdata.rda
+0371073fe6dbbcfa3a9251f4eeaa0f69 *data/birthplace_census.rda
+1e67afa032f2ff2cbcb7ab7cff430e03 *data/census_city.rda
+ceaf655b97ac3bbc3f436de85fa1afef *data/census_region.rda
+082902fd22bd10f5ce861b10ec3ff18f *data/stateFIP.rda
+d28f52b24ad6ac5fc08501b250ab8c26 *data/stateICP.rda
+b2d291751d75647f70066da189d898dd *man/birthplace_census.Rd
+809deaa459fa7566e68025ca77884108 *man/censusGeography.Rd
+f36a32baa1fc645cbcbcd2ee0d11d77e *man/census_city.Rd
+005fa5816ad2f52952960e3652ae349e *man/census_region.Rd
+b33a9e3bdd1c0a903dca3571791e4530 *man/stateFIP.Rd
+2fc0f76b276abd99abf811fd8b20cf1c *man/stateICP.Rd
